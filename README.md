@@ -114,5 +114,5 @@ Axel Espinoza: Desarrollo integral del proyecto, código, documentación y video
 ## Enlaces Obligatorios
 
 * **Repositorio en GitHub:** `https://github.com/RemBonito/tpi-programacion1-paises-Axel-Espinoza`
-* **Video Demostrativo (10 a 15 minutos - Acceso Público):** `[https://drive.google.com/file/d/1XGdFd1jeneqjcDjgt4BEX-_Sek3jLO9a/view?usp=sharing]`
+* **Video Demostrativo (10 a 15 minutos - Acceso Público):** `https://drive.google.com/file/d/1XGdFd1jeneqjcDjgt4BEX-_Sek3jLO9a/view?usp=sharing`
 * **Documentación Técnica en PDF:** Incluida en la raíz del repositorio (`Informe_Tecnico_TPI.pdf`) / `https://drive.google.com/file/d/1LtIx-P8XacRu-5Lw9h8XXBUkwbx6Na80/view?usp=drive_link`
